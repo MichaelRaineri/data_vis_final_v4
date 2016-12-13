@@ -1,4 +1,4 @@
-html {
+/*html {
   box-sizing: border-box;
 }
 
@@ -125,7 +125,7 @@ h2:before {
   font-size: .85rem;
   line-height: 1.6;
 }
-/*
+
 .graph-wrapper {
   max-width: 1000px;
   margin: 4em auto;
