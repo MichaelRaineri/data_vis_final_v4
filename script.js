@@ -11,7 +11,7 @@ $(function () {
 
 
         title: {
-            text: 'Topic frequency during cafe owner interviews'
+            text: ' '
         },
 
         xAxis: {
@@ -46,7 +46,7 @@ $(function () {
         },
 
         series: [{
-            name: 'Sales per employee',
+            name: 'Topic Frequency',
             borderWidth: 1,
             data: [
             [0, 0, 6], [0, 1, 2], [0, 2, 0], [0, 3, 0], [0, 4, 0],
